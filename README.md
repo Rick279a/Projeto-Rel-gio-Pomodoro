@@ -1,0 +1,4 @@
+TEMA: Relógio Pomodoro
+
+DESCRIÇÃO:O Relógio Pomodoro é um projeto para ajudar os usuários a aumentar sua produtividade e manter o foco nas tarefas. Inspirado na técnica de gestão de tempo Pomodoro, este aplicativo oferece uma abordagem simples e eficaz para dividir o trabalho em intervalos gerenciáveis, intercalados com breves períodos de descanso.
+O aplicativo por início vai ter 4 telas, primeira tela vai ter apenas o nome do aplicativo com um bem vindo e um botão iniciar, segunda tela vai ser onde você vai colocar o nome do gerenciamento de tempo, quanto tempo de atividade e quanto tempo de descanso, a terceira tela vai ter o tempo já iniciado com um botão de pause se precisar pausar por algum motivo mostrando se você está no tempo de descanso ou no tempo de atividade e na quarta tela (última) vai ser um histórico  de todos os seus tempos e nomes deles.
